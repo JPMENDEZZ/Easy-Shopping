@@ -9,5 +9,5 @@
 <br><br>
 <h2>Uma demonstração do projeto! 👇</h2>
 <br>
-<img src="https://github.com/JPMENDEZZ/Easy-Shopping/assets/124535140/2bd68d37-d5ed-4a58-aa38-268a7a7e1993">
+<img src="https://github.com/JPMENDEZZ/Easy-Shopping/assets/124535140/b4e17953-c5ce-4260-9871-a2936477a64a">
 
